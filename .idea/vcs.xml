@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FreeSHR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HIE-Docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HealthId-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Identity-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MCI-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SHR-Datasense" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terminology-Server" vcs="Git" />
+  </component>
+</project>
